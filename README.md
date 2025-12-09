@@ -6,16 +6,9 @@ from IPython.display import Image
 ```python
 Image(filename = 'RE-GPT.jpeg')
 ```
-
-
-
-
     
 ![jpeg](README_files/README_1_0.jpg)
     
-
-
-
 # Reverse Engineering GPT
 
 #### Drawing inspiration from Andrej Karpathy’s iconic lecture, "Let’s Build GPT: From Scratch, in Code, Spelled Out", this project takes you on an immersive journey into the inner workings of GPT. Step-by-step, we’ll construct a GPT model from the ground up, demystifying its architecture and bringing its mechanics to life through hands-on coding.
