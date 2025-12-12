@@ -11,7 +11,7 @@ Image(filename = 'RE-GPT.jpeg')
     
 # Reverse Engineering GPT
 
-#### Drawing inspiration from Andrej Karpathy’s iconic lecture, "Let’s Build GPT: From Scratch, in Code, Spelled Out", this project takes you on an immersive journey into the inner workings of GPT. Step-by-step, we’ll construct a GPT model from the ground up, demystifying its architecture and bringing its mechanics to life through hands-on coding.
+#### Inspired by Andrej Karpathy’s "Let’s Build GPT", this project guides you step‑by‑step to build a GPT from scratch, demystifying its architecture through clear, hands‑on code.
 
 ### [original video from Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
